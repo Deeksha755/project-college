@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which language is used to style web pages?",
+    "choices": ["HTML", "CSS", "Python", "SQL"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "choices": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the common name for H2O?",
+    "choices": ["Hydrogen", "Helium", "Water", "Oxygen"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which process do plants use to make food?",
+    "choices": ["Respiration", "Digestion", "Photosynthesis", "Evaporation"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does CPU stand for?",
+    "choices": ["Central Process Unit", "Computer Personal Unit", "Central Processing Unit", "Control Performance Unit"],
+    "correctIndex": 2
+  }
+]
